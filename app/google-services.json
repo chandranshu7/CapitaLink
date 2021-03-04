@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "578339701591",
+    "project_id": "capitalink-49809",
+    "storage_bucket": "capitalink-49809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578339701591:android:9dd7445a9dc31fb0dbf412",
+        "android_client_info": {
+          "package_name": "com.example.capitalink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578339701591-2j65ka7jk6hdp2ghk3fc7oeri61500qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capitalink",
+            "certificate_hash": "70a795301c25c77d37022bc536546ea3f915f77e"
+          }
+        },
+        {
+          "client_id": "578339701591-tqaqse9fcuksv8faln8ne2a2mardaalv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnR8hV3taL0q5Jw5kh72NuNVOyzhw8-t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578339701591-tqaqse9fcuksv8faln8ne2a2mardaalv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
